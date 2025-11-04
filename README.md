@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-B">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Imagem</title>
+    <title>Imagem corrigida.png</title>
     <!-- Carregando Tailwind CSS para estilo rápido -->
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
